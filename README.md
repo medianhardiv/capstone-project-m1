@@ -20,7 +20,7 @@ Developer mencoba membuat aplikasi <insert your case study here> (sistem penyimp
 1. CRUD dasar
 ![alt text](9781491925157-us.jpg)
 2. Filter & Sort gaji karyawan
-![alt text](Screenshot 2024-01-07 165233.png)
+![alt text](Screenshot-2024-01-07-165233.png)
 
 ## Copyright
 Copyright <logo c> 2024 <insert your name>
