@@ -23,4 +23,4 @@ Developer mencoba membuat aplikasi <insert your case study here> (sistem penyimp
 <img src="Screenshot-2024-01-07-165233.png" width="200" height="600">
 
 ## Copyright
-Copyright <logo c> 2024 <insert your name>
+Copyright &copy; 2024
