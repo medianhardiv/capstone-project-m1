@@ -18,9 +18,9 @@ Developer mencoba membuat aplikasi <insert your case study here> (sistem penyimp
 
 ## Flowchart
 1. CRUD dasar
-![alt text](image.jpg)
+![alt text](9781491925157-us.jpg)
 2. Filter & Sort gaji karyawan
-![alt text](image1.jpg)
+![alt text](Screenshot 2024-01-07 165233.png)
 
 ## Copyright
 Copyright <logo c> 2024 <insert your name>
