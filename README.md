@@ -16,5 +16,11 @@ Developer mencoba membuat aplikasi <insert your case study here> (sistem penyimp
 3. Filter & Sort jumlah/saldo cuti karyawan
 4. Filter status cuti karyawan
 
+## Flowchart
+1. CRUD dasar
+![alt text](image.jpg)
+2. Filter & Sort gaji karyawan
+![alt text](image1.jpg)
+
 ## Copyright
 Copyright <logo c> 2024 <insert your name>
